@@ -22,7 +22,7 @@ const Header = ({ showSearch }) => {
             觀光景點
             <img className="wave_blue1" src={waveBlue} alt="wave_blue" />
           </Link>
-          <Link to="/" className="menu_fair">
+          <Link to="/travelFeaturedPage" className="menu_fair">
             主題旅遊
             <img className="wave_yellow" src={waveYellow} alt="wave_Yellow" />
             <SelectBar />
